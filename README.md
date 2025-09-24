@@ -20,5 +20,18 @@ This project showcases a professional layout suitable for construction firms, bu
 samtemconstruction/
 ├── index.html        # Main landing page
 ├── style.css         # Stylesheet
-├── script.js         # JavaScript functionality (if included)
+├── script.js         # JavaScript functionality
 ├── images/           # Project images and assets
+
+
+##📌 Requirements
+
+A modern web browser (Chrome, Firefox, Edge, Safari)
+
+Basic understanding of HTML, CSS, and JavaScript (optional, if you want to edit the code)
+
+
+##👨‍💻 Author
+
+Samuel Adefowope
+GitHub: samtem08
